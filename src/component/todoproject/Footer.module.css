@@ -13,3 +13,14 @@
 .item {
     margin: 50px;
 }
+
+
+@media screen and (max-width: 430px) {
+    .footer {
+        width: 100%;
+        font-size: 17px;
+        margin-left: -44px;
+
+
+    }
+}
