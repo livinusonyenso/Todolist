@@ -10,7 +10,9 @@
 
 @media screen and (max-width: 430px) {
     .header {
-        width: 125%;
+        width: 135%;
+        text-align: center;
+        margin-left: -61px;
 
 
 
